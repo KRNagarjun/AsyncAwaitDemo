@@ -1,0 +1,13 @@
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.exe
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.genruntimeconfig.cache
